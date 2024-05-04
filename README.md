@@ -1,0 +1,4 @@
+# Text Correction using HappyTransformer
+
+Project Description:
+In this project, I utilized the HappyTransformer library to implement a text correction system based on the T5 model. The code begins by installing the necessary libraries and importing essential modules. It then loads the JFLEG dataset using the datasets library, dividing it into training and evaluation splits. A function is defined to generate CSV files containing input sentences and their corresponding corrections. These files are used to train the T5 model with specified training arguments. Finally, the trained model is used to correct example sentences, demonstrating its text correction capability. The project leverages machine learning techniques to improve the grammatical accuracy of text, showcasing proficiency in natural language processing and model training methodologies.
